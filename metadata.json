@@ -1,0 +1,6 @@
+{
+  "name": "NIVASA - AI Household Manager",
+  "description": "NIVASA powered by NISA & integrated into the NEXUS Living Ecosystem: Smart IoT appliance automation, utility bill settlements, security gate passes, zero-waste meal planning, pantry restock, and 17 Indian languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
